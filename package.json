@@ -1,0 +1,26 @@
+{
+  "name": "serverlesss_w_fb",
+  "version": "1.0.0",
+  "description": "toy project to practice to use Firebase platform",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anTuni/serverlesss_w_fb.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "anTuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anTuni/serverlesss_w_fb/issues"
+  },
+  "homepage": "https://github.com/anTuni/serverlesss_w_fb#readme",
+  "dependencies": {
+    "firebase": "^10.3.1"
+  }
+}
